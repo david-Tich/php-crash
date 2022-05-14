@@ -1,4 +1,4 @@
-# PHP crash # Brad Traversy
+#Brad Traversy
 # PHP 8 development environment with PHP-FPM, Nginx and MySQL, using Docker and Docker Compose
 
 You need to have Docker and Docker Compose installed on your server to proceed using this PHP environment.
